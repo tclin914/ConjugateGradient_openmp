@@ -10,4 +10,4 @@ In this assignment. you are asked to parallelize a serial implementation of the 
 
 ## Requirements
 
-In this assignment, you have to modify cg.c to improve the performance of this program(i.e.,to insert OpenMP pragmas/library routines to parallelize parts of the program). Of course, you may add any other variables of functions if necessary.
+In this assignment, you have to modify ``cg.c`` to improve the performance of this program(i.e.,to insert OpenMP pragmas/library routines to parallelize parts of the program). Of course, you may add any other variables of functions if necessary.
