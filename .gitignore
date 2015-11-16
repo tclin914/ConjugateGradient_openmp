@@ -1,0 +1,3 @@
+*.o
+GC/bin/cg
+GC_openmp/bin/cg
